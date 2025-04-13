@@ -34,6 +34,6 @@ This project is designed to showcase core DevOps skills:
 - Container orchestration (basic level)
 - CI integration
 
-## 👨�💻 Author
+## 👨‍💻 Author
 **Roman Golubiev**  
 [LinkedIn](https://www.linkedin.com/in/golubiev)
